@@ -17,7 +17,9 @@ To train your agent using pseudo MAML/PPO, please check the code in `main.py`
 
 To train your agent using Reptile, please check the code in `reptile_rl`
 
+
 Halfcheetah Environments:
+
 
 Randomized Parameters: 
 
@@ -28,7 +30,9 @@ Randomized Parameters:
 ![This is an image](/img/halfcheetah.gif)
 
 
+
 DoubleInvertedPendulum Environments:
+
 
 Randomized Parameters: 
 
