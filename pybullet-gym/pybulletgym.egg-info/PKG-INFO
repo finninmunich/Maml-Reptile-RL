@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pybulletgym
+Version: 0.1
+Summary: PyBullet Gym is an open-source implementation of the OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform in support of open research.
+Home-page: https://github.com/benelot/pybullet-gym
+Author: Benjamin Ellenberger
+Author-email: be.ellenberger@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE.md
+
+UNKNOWN
+
