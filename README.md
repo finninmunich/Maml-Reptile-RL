@@ -15,7 +15,7 @@ To be more specific, we :
 
 To train your agent using pseudo MAML/PPO, please check the code in `main.py`
 
-To train your agent using Reptile, please check the code in `reptile_rl`
+To train your agent using Reptile, please check the code in `reptile_rl.py`
 
 
 **Halfcheetah Environments:**
