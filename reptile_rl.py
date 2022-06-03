@@ -97,7 +97,7 @@ if __name__ == '__main__':
             #task = MetaInvertedDoublePendulum(task=tasks[task_index])
             task = HalfCheetahBulletEnv(joints_coef=joints_coefs[task_index])
             model.set_env(task)  # set this test to our model
-            model.network.load_state_dict(init_params)  # load initial params for our model
+            model.network.load_state_dict(temp_params)  # load initial params for our model
             model.init_optimizers()  # reset init_optimizer
             reward = model.learn()  # train our model under this task
             meta_reward.append(reward)
